@@ -1,0 +1,7 @@
+ EPS -- 10/20/30/40/ -- Many is good --
+PE -- 10/12/15/3 -- Small is good(For 1 Rs how much is I am investing)
+NPL/A -- 0.1,0.5,0.9,1,2,3,4,5 -- Less
+
+CAR -- 0.5,1,2,3,4,5
+ROE/ROA
+PEG
